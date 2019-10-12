@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geefeevaci.eggleton.co.nz/sitemap.xml
